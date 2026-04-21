@@ -53,3 +53,8 @@ footer {
 body{background-color: black;background-image:url(img/Fondo.png);background-size:
  cover;background-repeat: no-repeat;background-position: center;}
 span{font-family: 'Poppins';}
+
+
+a:hover{ background: linear-gradient(113deg,rgba(133, 133, 133, 0.4) 6.78%,rgba(255, 255, 255, 0.4) 124.86%);
+  box-shadow: 0px 5px 20px 0px rgba(27, 27, 27, 0.25),2.01px -2.01px 20px 0px rgba(214, 214, 214, 0.17) inset,-3.013px 3.013px 3.013px 0px rgba(255, 255, 255, 0.39) inset;
+  backdrop-filter: blur(37.21466827392578px);}
